@@ -38,6 +38,14 @@ section {
   text-align: center;
 }
 
+.ammenities {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 
 footer {
   text-align: center;
